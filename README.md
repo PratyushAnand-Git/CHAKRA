@@ -7,6 +7,8 @@ Project CHAKRA is an advanced agentic multi-agent orchestrator and geospatial di
 ---
 <img width="1915" height="977" alt="Screenshot 2026-07-23 002312" src="https://github.com/user-attachments/assets/2961552f-2049-49b9-9670-3d65c5ce7d1c" />
 
+[Watch the demo video](https://drive.google.com/file/d/16HPxZ2kdcmKbDk1gv5xfnB90p0uTE5Dl/view)
+
 
 ## Key Pillars of the System
 

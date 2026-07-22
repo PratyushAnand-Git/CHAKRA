@@ -5,6 +5,8 @@
 Project CHAKRA is an advanced agentic multi-agent orchestrator and geospatial digital twin designed to secure, monitor, and optimize national energy supply chains. By combining real-time global intelligence pipelines with deep domain constraint solvers, CHAKRA enables dynamic, high-fidelity rerouting and strategic reserve management when maritime and trade corridors face escalation.
 
 ---
+<img width="1915" height="977" alt="Screenshot 2026-07-23 002312" src="https://github.com/user-attachments/assets/2961552f-2049-49b9-9670-3d65c5ce7d1c" />
+
 
 ## Key Pillars of the System
 
